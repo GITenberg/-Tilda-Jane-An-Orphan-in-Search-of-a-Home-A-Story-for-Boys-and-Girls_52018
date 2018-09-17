@@ -1,0 +1,36 @@
+_repo: -Tilda-Jane-An-Orphan-in-Search-of-a-Home-A-Story-for-Boys-and-Girls_52018
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Carleton, Clifford
+    birthdate: 1867
+    deathdate: 1946
+    gutenberg_agent_id: '33565'
+    url: http://www.gutenberg.org/2009/agents/33565
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: ''
+gutenberg_issued: '2016-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- GITenberg
+title: '''Tilda Jane: An Orphan in Search of a Home. A Story for Boys and Girls'
+url: http://www.gutenberg.org/ebooks/52018
