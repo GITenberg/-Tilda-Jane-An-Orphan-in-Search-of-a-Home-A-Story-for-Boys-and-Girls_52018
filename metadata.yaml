@@ -7,6 +7,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '33565'
     url: http://www.gutenberg.org/2009/agents/33565
+covers:
+- cover_type: archival
+  image_path: 52018-h/images/cover.jpg
 creator:
   author:
     agent_name: Saunders, Marshall
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1041
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52018#-Tilda-Jane-An-Orphan-in-Search-of-a-Home-A-Story-for-Boys-and-Girls
 gutenberg_issued: '2016-05-07'
 gutenberg_type: Text
 identifiers:
